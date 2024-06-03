@@ -26,6 +26,10 @@ $main_menus = [
   'librarian' => [
     'text' => __('Librarian'),
     'url' => 'index.php?p=librarian'
+  ],
+  'Admin' => [
+    'text' => __('Login Pustakawan'),
+    'url' => 'index.php?p=Login'
   ]
 ];
 ?>
